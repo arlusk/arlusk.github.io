@@ -1,0 +1,11 @@
+/* 1. Center the site */
+body {
+  font-family: sans-serif;
+  margin-left: auto;/* 1 */
+  margin-right: auto;/* 1 */
+  max-width: 600px;
+}
+
+h1 {
+  font-family: 'Comic Sans MS', fantasy;
+}
